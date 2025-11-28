@@ -1,5 +1,5 @@
 // ===== Intersection Observer: fade-in =====
-const sections = document.querySelectorAll("section");
+const sections = document.querySelectorAll("section, .product-card");
 const observer = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
