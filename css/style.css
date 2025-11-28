@@ -14,7 +14,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url('./image/sizen.jpg') center/cover no-repeat;
+    background: url('../image/sizen.jpg') center/cover no-repeat;
     text-align: center;
     color: white;
     position: relative;
@@ -151,4 +151,5 @@ body {
   }
 
   
+
 
