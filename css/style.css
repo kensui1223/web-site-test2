@@ -134,6 +134,11 @@ section p {
   transform: translateY(0) !important;
 }
 
+/* ==== ancate ==== */
+.p {
+  text-decoration: none;
+}
+
 /* ===== Footer ===== */
 footer {
   background-color: #3a2e2a;
@@ -154,3 +159,4 @@ footer {
   opacity: 1;
   transform: translateY(0);
 }
+
