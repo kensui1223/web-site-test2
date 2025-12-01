@@ -90,6 +90,7 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background: url("../image/home-img.jpg");
   display: flex;
   align-items: center;
   justify-content: center;
