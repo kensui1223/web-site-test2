@@ -287,6 +287,13 @@ body {
   border-radius: 12px;
 }
 
+.card .price {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #e27d7d; /* ボタンと色を揃える */
+  margin: 10px 0 5px;
+}
+
 /* カートボタン */
 .card .add-cart {
   display: inline-block;
